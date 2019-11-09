@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600|Rancho');
+
+.Main {
+  text-align: center;
+}
+.picture img{
+  width: 150px;
+  margin-top: 40px;
+}
+.titulo-juego {
+  font-family: "Rancho", serif;
+  font-size: 80px;
+  margin: 10px auto;
+  color: #2a9438;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  margin-bottom: 26px;
+  font-size: 30px;
+}
+.NewGame {
+  margin: 30px auto;
+  font-family: 'Open Sans', sans-serif;
+}
+.WrongLetters p {
+  font-weight: 400;
+  color: #7d7d7d;
+}
+.SubmitGuess{
+    font-family: 'Open Sans', sans-serif;
+}
